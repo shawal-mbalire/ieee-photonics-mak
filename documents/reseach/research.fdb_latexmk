@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex research"] 1672737156 "research.aux" "research.bbl" "research" 1672737168 0
+["bibtex research"] 1672737156 "research.aux" "research.bbl" "research" 1672737321 0
   "./test.bib" 1672733465 2614 762d7a39d4013bcbd9afba709c78d8b1 ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "research.aux" 1672737165 2905 5f0998526500d5283f7ba51aa3b5ce67 "pdflatex"
+  "research.aux" 1672737319 2905 5f0998526500d5283f7ba51aa3b5ce67 "pdflatex"
   (generated)
   "research.bbl"
   "research.blg"
   (rewritten before read)
-["pdflatex"] 1672737162 "d:/Github/ieee-photonics-mak/documents/reseach/research.tex" "research.pdf" "research" 1672737168 0
+["pdflatex"] 1672737316 "d:/Github/ieee-photonics-mak/documents/reseach/research.tex" "research.pdf" "research" 1672737321 0
   "C:/Users/Shawal" 1667956558 19031 1d49df30b5c4feb7da09c2d60b003fbe ""
   "C:/Users/Shawal Mbalire/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1672729113 82011 97247c01f6bfb6f6d0c40fab12a08423 ""
   "C:/Users/Shawal Mbalire/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1672073024 23172891 119e3bf339a09cd3fdd53160b351c15c ""
@@ -30,7 +30,6 @@
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
-  "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb" 1247596667 36310 f5ddc6715cc60deb16d9db5ded6a9391 ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -79,11 +78,11 @@
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1625497667 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "d:/Github/ieee-photonics-mak/documents/reseach/research.tex" 1672737149 9173 928beca92982b9ac73b033508647722c ""
-  "research.aux" 1672737165 2905 5f0998526500d5283f7ba51aa3b5ce67 "pdflatex"
+  "d:/Github/ieee-photonics-mak/documents/reseach/research.tex" 1672737313 9177 7a70f6f9aee4a74948b911bb8978297b ""
+  "research.aux" 1672737319 2905 5f0998526500d5283f7ba51aa3b5ce67 "pdflatex"
   "research.bbl" 1672737162 2285 2ab5d105a56281a4166e226fa6681a71 "bibtex research"
-  "research.out" 1672737165 1558 48edb6999806057fade7ba188b745146 "pdflatex"
-  "research.tex" 1672737149 9173 928beca92982b9ac73b033508647722c ""
+  "research.out" 1672737319 1558 48edb6999806057fade7ba188b745146 "pdflatex"
+  "research.tex" 1672737313 9177 7a70f6f9aee4a74948b911bb8978297b ""
   (generated)
   "research.aux"
   "research.log"
