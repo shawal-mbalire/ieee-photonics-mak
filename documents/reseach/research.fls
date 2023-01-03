@@ -13,11 +13,10 @@ INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\artic
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\xurl\xurl.sty
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\xurl\xurl.sty
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\tex\latex\xurl\xurl.sty
@@ -473,19 +472,6 @@ INPUT .\research.out
 OUTPUT research.out
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Shawal Mbalire\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\research.bbl
-INPUT research.bbl
-INPUT .\research.bbl
-INPUT research.bbl
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -494,16 +480,31 @@ INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti9.tfm
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Shawal Mbalire\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\research.bbl
+INPUT research.bbl
+INPUT .\research.bbl
+INPUT research.bbl
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT research.aux
 INPUT .\research.out
 INPUT .\research.out
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
-INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti9.pfb
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti9.pfb
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\Shawal Mbalire\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
