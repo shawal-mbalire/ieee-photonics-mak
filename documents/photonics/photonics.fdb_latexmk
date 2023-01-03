@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1672736564 "d:/Github/ieee-photonics-mak/documents/photonics/photonics.tex" "photonics.pdf" "photonics" 1672736566 0
+["pdflatex"] 1672737478 "d:/Github/ieee-photonics-mak/documents/photonics/photonics.tex" "photonics.pdf" "photonics" 1672737479 0
   "C:/Users/Shawal" 1667956558 19031 1d49df30b5c4feb7da09c2d60b003fbe ""
   "C:/Users/Shawal Mbalire/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1672729113 82011 97247c01f6bfb6f6d0c40fab12a08423 ""
   "C:/Users/Shawal Mbalire/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1672090532 11548 5a89ebe88cf35e9151b04fcfeab0fab0 ""
@@ -23,9 +23,9 @@
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1669844196 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1669844196 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
   "C:/Users/Shawal Mbalire/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1666810012 30426 f2fb69fcda4dc35ed0b7dee211bce679 ""
-  "d:/Github/ieee-photonics-mak/documents/photonics/photonics.tex" 1672736561 4012 0cce2bd2e571402334a902ef44492445 ""
-  "photonics.aux" 1672736565 457 ba57d81057757f3957f5641958744543 "pdflatex"
-  "photonics.tex" 1672736561 4012 0cce2bd2e571402334a902ef44492445 ""
+  "d:/Github/ieee-photonics-mak/documents/photonics/photonics.tex" 1672737474 4826 c1fa55fe8b2b2e220781f741428bcefb ""
+  "photonics.aux" 1672737479 457 743a1a115daf12f3931ef786c57b80a7 "pdflatex"
+  "photonics.tex" 1672737474 4826 c1fa55fe8b2b2e220781f741428bcefb ""
   (generated)
   "photonics.aux"
   "photonics.log"
