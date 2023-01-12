@@ -1,0 +1,4 @@
+PWD d:\Github\ieee-photonics-mak\documents\budget
+INPUT C:\Users\Shawal Mbalire\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Github\ieee-photonics-mak\documents\budget\budget.tex
+OUTPUT budget.log

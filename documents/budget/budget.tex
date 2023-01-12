@@ -1,0 +1,45 @@
+\documentclass[final]{cmpreport}
+
+  \subsection{Gantt Chart \& Critical Path}
+    \begin{sideways}
+      \newganttchartelement{voidbar}{
+    voidbar/.style={
+        draw=black,
+        top color=black!25,
+        bottom color=black!23
+    }}
+    \begin{ganttchart}[x unit=0.27cm, vgrid, title label font=\footnotesize,
+        canvas/.style={draw=black, dotted}]{1}{44}
+        \gantttitlelist{1,...,22}{2} \\
+
+
+        %the elements, bars and milestones, are identified as elem0, elem1, etc
+
+        %elem1
+        \ganttbar{A.Project Assigned}{1}{2}     \\  %elem0
+        \ganttbar{B. Create Plan}{1}{4}    \\  %elem1
+        \ganttbar{C. Ambassador Requirements}{5}{6}              \\  %elem2
+        \ganttbar{D. Recruit Ambassadors} {7}{8} \\
+        \ganttbar{E. Communicate with Ambassadors } {9}{10} \\
+        \ganttbar {F. Set Marketing Objectives} {11}{11} \\
+        \ganttbar {G. Design, publish \& evaluate survey} {11}{14} \\
+        \ganttbar {H. Design Marketing Comms} {15}{18} \\
+        \ganttbar {I. Execute Plan} {19}{24} \\
+        \ganttbar {J. Set Webpage Objectives} {25}{25} \\
+        \ganttbar {K. Website Research} {25}{26} \\
+        \ganttbar {L. Website Prototype} {27}{28} \\
+        \ganttbar {M. Approve design/develop} {28}{29} \\
+        \ganttbar {N. Test \& evaluate} {30}{30} \\
+        \ganttbar {O. Venue \& theme} {31}{34} \\
+        \ganttbar {P. Choose Catering \& Entertainment } {35}{36} \\
+        \ganttbar {Q. Final Presentation} {37}{37} \\
+
+        \ganttlink{elem0}{elem2}
+        \ganttlink{elem1}{elem2}
+        \ganttlink{elem2}{elem3}
+        \ganttlink{elem5}{elem6}
+        \ganttlink{elem8}{elem9}
+        \ganttlink{elem9}{elem10}
+        \ganttlink{elem9}{elem11}
+    \end{ganttchart}
+\end{sideways}
